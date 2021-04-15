@@ -1,0 +1,7 @@
+TestMeal$No description.$No recipe.$0$0$2200$15
+TestMealNumber2$No description.$No recipe.$1$1$1400$15
+Naan Roti$Its naaan.$sampleRecipe.txt$2$1$1100$20
+Parata$Its parate.$sampleRecipe.txt$2$1$1050$20
+Chapathi$Its chapathi.$sampleRecipe.txt$2$1$1600$20
+Pizza$Its italian pizza.$sampleRecipe.txt$0$0$2150$20
+Chinese Rolls$Awesome chinese rolls.$sampleRecipe.txt$1$0$1700$20
